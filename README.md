@@ -144,6 +144,12 @@ The notebook generates visualizations including:
 
 ---
 
+## 🎥 Project Demonstration
+
+https://github.com/user-attachments/assets/29533adf-00b5-4e9a-a97f-d7346a05984f
+
+---
+
 ## 🎯 Learning Outcomes
 
 - Data Cleaning Techniques
